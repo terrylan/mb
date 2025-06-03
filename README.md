@@ -1,2 +1,1 @@
-# mb
-Machine Bible
+# Machine Bible v3
